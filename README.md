@@ -8,16 +8,24 @@
     Projeto desenvolvido para disciplina de Gerência de Configuração e Mudanças do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba Campus Cajazeiras. Trata-se de uma aplicação web para visualizar personagens e episodios da serie Rick and Morty.
   </p>
   <h2>Status do Projeto</h2>
-  <p>Concluído</p>
+  <p>:heavy_check_mark: Concluído </p>
+
   <h2>:man_mechanic: Linguagens e Ferramentas Utilizadas</h2>
 
   
-- HTML
-- CSS
-- Javascript
-- Vscode
-- Live Server
-- Git
+- ``HTML``
+- ``CSS``
+- ``Javascript``
+- ``Vscode``
+- ``Live Server``
+- ``Git``
+<h2>:hammer: Funcionalidades do projeto</h2>
+  
+  - `Funcionalidade 1`: Visualização de personagens.
+  - `Funcionalidade 2`: Visualização de episódios.
+  - `Funcionalidade 3`: Descrição dos personagens.
+  - `Funcionalidade 4`: Uso de API para fornecer os dados: acesse <a href="https://rickandmortyapi.com/">aqui</a>.
+ 
 <h2> :technologist:  Autores</h2>
   <table >
   <tbody>
