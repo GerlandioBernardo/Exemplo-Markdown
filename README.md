@@ -29,6 +29,8 @@
   - `Funcionalidade 4`: Marcar medicamento como Ignorado.
   - `Funcionalidade 5`: Marcar medicamento como tomado.
   - `Funcionalidade 6`: Visualizar medicamento(s) a ser tomado(s) no(s) proximo(s) dia(s).
+
+ <h2>:rocket: Abrir e rodar o projeto</h2>
  
 <h2> :technologist:  Autores</h2>
   <table >
