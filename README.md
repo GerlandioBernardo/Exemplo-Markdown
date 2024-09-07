@@ -1,30 +1,34 @@
-<h1 align="center">Rick and Morty</h1>
+<h1 align="center">Aplicação para controle e lembretes de medicamentos</h1>
 <div align="center">
-  <img src="img/git1.png" />
+  <img src="" />
 </div>
 <div>
   <h2>Descrição do Projeto</h2>
   <p>
-    Projeto desenvolvido para disciplina de Gerência de Configuração e Mudanças do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba Campus Cajazeiras. Trata-se de uma aplicação web para visualizar personagens e episodios da serie Rick and Morty.
+    Projeto desenvolvido para disciplina de Sistemas Operacionais do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba Campus Cajazeiras. Trata-se de uma aplicação moblie que permite aos usuários registrar e excluir medicamentos, marcá-los como tomados ou ignorados e receber lembretes automáticos nos horários programados
   </p>
   <h2>Status do Projeto</h2>
   <p>:heavy_check_mark: Concluído </p>
 
   <h2>:man_mechanic: Linguagens e Ferramentas Utilizadas</h2>
 
-  
+- ``React Native``
+- ``SQlite``
 - ``HTML``
 - ``CSS``
 - ``Javascript``
 - ``Vscode``
-- ``Live Server``
+- ``Docker``
 - ``Git``
+- ``Vim``
 <h2>:hammer: Funcionalidades do projeto</h2>
   
-  - `Funcionalidade 1`: Visualização de personagens.
-  - `Funcionalidade 2`: Visualização de episódios.
-  - `Funcionalidade 3`: Descrição dos personagens.
-  - `Funcionalidade 4`: Uso de API para fornecer os dados: acesse <a href="https://rickandmortyapi.com/">aqui</a>.
+  - `Funcionalidade 1`: Autenticação.
+  - `Funcionalidade 2`: Adicionar medicamento.
+  - `Funcionalidade 3`: Excluir medicamento.
+  - `Funcionalidade 4`: Marcar medicamento como Ignorado.
+  - `Funcionalidade 5`: Marcar medicamento como tomado.
+  - `Funcionalidade 6`: Visualizar medicamento(s) a ser tomado(s) no(s) proximo(s) dia(s).
  
 <h2> :technologist:  Autores</h2>
   <table >
