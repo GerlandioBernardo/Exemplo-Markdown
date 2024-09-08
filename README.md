@@ -1,6 +1,7 @@
 <h1 align="center">Aplicação para controle e lembretes de medicamentos</h1>
-<div align="center">
-  <img src="" />
+<div align="center" >
+  <img src="img/Tela1.jpeg"  width="250" height="460"/>
+  <img src="img/Tela2.jpeg"  width="250" height="460"/>
 </div>
 <div>
   <h2>Descrição do Projeto</h2>
@@ -30,7 +31,21 @@
   - `Funcionalidade 5`: Marcar medicamento como tomado.
   - `Funcionalidade 6`: Visualizar medicamento(s) a ser tomado(s) no(s) proximo(s) dia(s).
 
- <h2>:rocket: Abrir e rodar o projeto</h2>
+ <h2>:rocket: Instruções para Rodar o Projeto</h2>
+ 1️⃣  git clone git@github.com:ericksjp/MedicalSafeProject.git
+ <br><br>
+ 2️⃣  cd MedicalSafeProject
+ <br><br>
+ 3️⃣  npx expo start -c
+ <br><br>
+ <p>Para buildar o projeto com o docker:</p>
+ 1️⃣  git checkout docker
+ <br><br>
+ 2️⃣  cd docker
+ <br><br>
+ 3️⃣  git compose up --build
+ 
+ 
  
 <h2> :technologist:  Autores</h2>
   <table >
