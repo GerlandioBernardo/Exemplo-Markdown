@@ -1,4 +1,4 @@
-<h1 align="center">Aplicação para controle e lembretes de medicamentos</h1>
+<h1 align="center">Nome: Aplicação para controle de imóveis</h1>
 <div align="center" >
   <img src="img/Tela1.jpeg"  width="250" height="460"/>
   <img src="img/Tela2.jpeg"  width="250" height="460"/>
@@ -6,22 +6,22 @@
 <div>
   <h2>Descrição do Projeto</h2>
   <p>
-    Projeto desenvolvido para disciplina de Sistemas Operacionais do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba Campus Cajazeiras. Trata-se de uma aplicação moblie que permite aos usuários registrar e excluir medicamentos, marcá-los como tomados ou ignorados e receber lembretes automáticos nos horários programados
+    Projeto desenvolvido para disciplina de Programação Orientada a Objetos do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba Campus Cajazeiras. Trata-se de uma aplicação desktop para gerenciar os imóveis alugados e os diponíveis.
   </p>
   <h2>Status do Projeto</h2>
-  <p>:heavy_check_mark: Concluído </p>
+  <p>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
   <h2>:man_mechanic: Linguagens e Ferramentas Utilizadas</h2>
 
-- ``React Native``
-- ``SQlite``
-- ``HTML``
-- ``CSS``
-- ``Javascript``
-- ``Vscode``
-- ``Docker``
-- ``Git``
+- ``Java``
+- ``Intellij``
 - ``Vim``
+- ``JavaFX``
+- ``PostgreSQL``
+- ``GitHub``
+- ``Git``
 <h2>:hammer: Funcionalidades do projeto</h2>
   
   - `Funcionalidade 1`: Autenticação.
